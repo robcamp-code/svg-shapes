@@ -1,6 +1,6 @@
-<svg className="w-full absolute" viewBox="0 0 3000 1000">
+<svg className="w-full absolute" viewBox="0 0 3000 1000" style="background: white">
   
-  <rect width="3000" height="1000" fill="rgb(255,255,255)"/>
+  
   <ellipse cx="1500" cy="1000" rx="1500" ry="550" fill="rgb(0,0,0)"/>
    
 </svg>
