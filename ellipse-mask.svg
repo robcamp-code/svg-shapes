@@ -1,7 +1,6 @@
 <svg className="w-full absolute" viewBox="0 0 3000 1000">
-  <defs>
-    <mask id="mask">
-      <ellipse cx="750" cy="275" rx="1500" ry="550" fill="#FFFFFF"/>
-    </mask>
-  </defs>
+  
+    
+  <ellipse cx="750" cy="275" rx="1500" ry="550" fill="#FFFFFF"/>
+   
 </svg>
