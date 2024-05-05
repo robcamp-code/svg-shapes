@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" className="w-full absolute" viewBox="0 0 700 250" style="background: white">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 250" style="background: white">
   <polygon points="0,170 0,250 350,250"/>
   <polygon points="700,170 700,250 350,250"/>
 </svg>
